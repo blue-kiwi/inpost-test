@@ -55,14 +55,14 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.171-b11, mixed mode)
 To set the PATH variable add the full path of the apache-maven-3.0.4/bin directory to the PATH variable. Typically, the full path is:
 
 ```
-C:\Program Files\apache-maven-3.0.4\bin
+C:\Program Files\apache-maven-3.6.1\bin
 ```
 
 3. Add ‘MAVEN_HOME’ and ‘M2_HOME’ Environment Variables
  - Select Control Panel and then System.
  - Click Advanced and then Environment Variables.
- - Add the jdk location to the MAVEN_HOME variable in User Variables
- - Add the jdk location to the M2_HOME variable in User Variables
+ - Add the maven location to the MAVEN_HOME variable in User Variables
+ - Add the maven location to the M2_HOME variable in User Variables
 
 4. After that, type the following in a terminal or in a command prompt:
 
@@ -111,7 +111,7 @@ mvn clean verify -Ddriver=firefox
 ```
 
 
-### Cucumber add Gherkin
+### Cucumber and Gherkin
 
 Gherkin uses a set of special keywords to give structure and meaning to executable specifications.
 
