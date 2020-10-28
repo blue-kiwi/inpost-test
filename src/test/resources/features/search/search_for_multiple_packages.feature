@@ -1,11 +1,15 @@
 # language: pl
-@manualne
+@automatyczny @funkcjonalny
 
-Funkcja: Jako użtkownik paczkomatu mogę w szybki i łatwy sposób odnaleźć przesyłkę z poziomu strony startowej
+Funkcja: Jako użytkownik mogę wyszukać wiele paczek za pomocą API
 
-  Scenariusz: Wyszukiwanie pojedynczej paczki
-    Zakładając, że użytkownik znajduje się na stronie domowej Inpost
-    Jeśli wprowadzi numer paczki "630075127031589010345249"
-    Oraz kliknie przycisk Znajdż
-    Wtedy nastąpi przekierowanie na stronę śledzenia paczki
-    I paczka będzie w statusie "dostarczona"
+  Szablon scenariusza: Trakowanie paczki za pomocą API
+  Zakładając, że shipx-proxy endpoint istnieje
+  Jeśli użytkownik wysyła zapytanie o status przesyłki '<tracking_number>'
+  Wtedy odpowiedź powinna przyjmować '<status>'
+
+  Przykłady:
+  | tracking_number           | status      |
+  | 000000000000000000000000  | not-found   |
+  | 630075127031589010345249  | delivered   |
+  | 630091027031589130630794  | delivered   |
