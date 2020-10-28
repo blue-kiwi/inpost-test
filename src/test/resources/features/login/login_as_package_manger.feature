@@ -15,7 +15,7 @@ Funkcja: Jako Manager Paczek mogę zalogować się do systemu
 
   Scenariusz: Logowanie do konta klienta
     Zakładając, że użtkownik znajduje się na stronie logowania do konta
-    Jeśli użytkownik wprowadzi poprawny adres e-mail
-    Oraz użytkownik wprowadzi poprawne hasło
+    Jeśli użytkownik wprowadzi dane logowania
+    | admin@dmian.pl | pass123 |
     Oraz użytkownik kliknie przycisk Zaloguj
     Wtedy zostanie zalogowany do swojego konta oraz przeniesiony na panel klienta

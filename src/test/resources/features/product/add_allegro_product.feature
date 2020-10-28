@@ -1,5 +1,5 @@
 # language: pl
-@manualne
+@automatyczne
 
 Funkcja: Jako użytkownik mogę dokonać na allegro zakupu w ratach zero
 
