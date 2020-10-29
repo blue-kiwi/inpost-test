@@ -1,0 +1,30 @@
+Paczkomat KRA012 31-630 Kraków	Os. Kombatantów 20	 Dostępny: 24/7
+Paczkomat KRA01A 31-801 Kraków	Władysława Broniewskiego 1	 Dostępny: 24/7
+Paczkomat KRA01AP 31-564 Kraków	Al. Pokoju 91	 Dostępny: 24/7
+Paczkomat KRA01E 30-701 Kraków	Przemysłowa 12	 Dostępny: 24/7
+Paczkomat KRA01M 30-415 Kraków	Wadowicka 4	 Dostępny: 24/7
+Paczkomat KRA01MP 31-315 Kraków	Radzikowskiego 140	 Dostępny: 24/7
+Paczkomat KRA01N 30-856 Kraków	Bieżanowska 276	 Dostępny: 24/7
+Paczkomat KRA02A 31-357 Kraków	Josepha Conrada 33	 Dostępny: 24/7
+Paczkomat KRA02AP 31-982 Kraków	al. Jana Pawła II 200	 Dostępny: 24/7
+Paczkomat KRA02B 30-063 Kraków	3 Maja 5	 Dostępny: 24/7
+Paczkomat KRA02C 30-347 Kraków	Kapelanka 30	 Dostępny: 24/7
+Paczkomat KRA02E 30-428 Kraków	Rynek Fałęcki 1	 Dostępny: 24/7
+Paczkomat KRA02M 30-363 Kraków	Kobierzyńska 114A	 Dostępny: 24/7
+Paczkomat KRA02MP 31-872 Kraków	Dywizjonu 303 21A	 Dostępny: 24/7
+Paczkomat KRA02N 30-347 Kraków	Kapelanka 54	 Dostępny: 24/7
+Paczkomat KRA03A 31-612 Kraków	Srebrnych Orłów 1	 Dostępny: 24/7
+Paczkomat KRA03B 30-418 Kraków	Zakopiańska 58	 Dostępny: 24/7
+Paczkomat KRA03C 30-611 Kraków	Stojałowskiego 1	 Dostępny: 24/7
+Paczkomat KRA03M 30-687 Kraków	Rżącka 21B	 Dostępny: 24/7
+Paczkomat KRA03MP 30-698 Kraków	Myślenicka 133	 Dostępny: 24/7
+Paczkomat KRA03N 31-536 Kraków	Podgórska 34	 Dostępny: 24/7
+Paczkomat KRA04AP 31-862 Kraków	os. Niepodległości 19	 Dostępny: 24/7
+Paczkomat KRA04B 30-333 Kraków	Marii Konopnickiej 78	 Dostępny: 24/7
+Paczkomat KRA04M 31-619 Kraków	Wawelska 22B	 Dostępny: 24/7
+Paczkomat KRA04MP 31-580 Kraków	Nowohucka 52	 Dostępny: 24/7
+Paczkomat KRA04N 30-552 Kraków	Wielicka 28A	 Dostępny: 24/7
+Paczkomat KRA05A 30-721 Kraków	Lipska 2	 Dostępny: 24/7
+Paczkomat KRA05B 31-403 Kraków	Kamienna 18	 Dostępny: 24/7
+Paczkomat KRA05M 30-392 Kraków	Bunscha 18	 Dostępny: 24/7
+Paczkomat KRA05MP 30-150 Kraków	Armii Krajowej 10	 Dostępny: 24/7

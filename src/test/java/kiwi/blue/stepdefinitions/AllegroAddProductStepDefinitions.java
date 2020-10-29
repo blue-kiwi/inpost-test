@@ -49,6 +49,7 @@ public class AllegroAddProductStepDefinitions {
     @Oraz("użytkownik kliknie w przycisk Przejdź do koszyka")
     public void checkIfPreCartPageIsOpen() {
         productPage.goToCartButton.click();
+        productPage.waitFor(cartPage.buyWithZeroInstallmentsButton);
     }
 
     @Wtedy("towar jest dodany do koszyka")
